@@ -21,7 +21,7 @@
 - Open to collaborating on systems, networking, or OS‑style projects.
 
 ### Tech
-- Languages: C, Python, Bash
+- Languages: C , C++, Python, Bash(shell scripting)
 - Domains: TCP/IP, POSIX threads, synchronization (locks/semaphores/cond vars), OS scheduling, data structures/algorithms
 - Tools: GCC, Make, GDB, Valgrind, Git/GitHub, Readline, Vim, Helgrind
 
