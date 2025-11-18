@@ -28,9 +28,6 @@
 ---
 
 ## GitHub stats
-<p align="center">
-  <img height="170" alt="Stats"
-       src="https://github-readme-stats.vercel.app/api?username=TANISHX1&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" alt="Top Languages"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHX1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
