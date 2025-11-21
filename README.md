@@ -28,8 +28,9 @@
 ---
 
 ## GitHub stats
-  <img height="170" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHX1&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+<img height="170" alt="Top Languages"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHX1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" />
 </p>
 
 <!-- Optional: contribution streak (can be rate-limited sometimes)
