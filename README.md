@@ -23,14 +23,14 @@
 ### Tech
 - Languages: C , C++, Python, Bash(shell scripting)
 - Domains: TCP/IP, POSIX threads, synchronization (locks/semaphores/cond vars), OS scheduling, data structures/algorithms
-- Tools: GCC, Make, GDB, Valgrind, Git/GitHub, Readline, Vim, Helgrind
+- Tools: GCC, Make, GDB, Valgrind, Git/GitHub, Readline, Vim, Helgrind , linux 
 
 ---
 
 ## GitHub stats
 <p>
 <img height="170" alt="Top Languages"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHX1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=1" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHX1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2" />
 </p>
 
 <!-- Optional: contribution streak (can be rate-limited sometimes)
