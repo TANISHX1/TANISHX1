@@ -27,14 +27,11 @@
 
 ---
 
-## GitHub stats
-
 <!-- Top Languages with Percentage Bar -->
 <p align="center">
-  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=TANISHX1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=TANISHX1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript" alt="Top Languages" />
   <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TANISHX1&theme=tokyonight" alt="Stats" />
 </p>
-
 ---
 
 ## Contact / Collaborate
