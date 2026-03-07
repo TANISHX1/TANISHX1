@@ -1,9 +1,9 @@
 <!-- Profile README for github.com/TANISHX1 -->
-<!-- Last updated: 2025-12-06 -->
+<!-- Last updated: 2026-03-07 -->
 
 <h1 align="center">Hi, I'm <a href="https://github.com/TANISHX1">TANISHX1</a> 👋</h1>
 <p align="center">
-   Systems & OS  • C on Linux  • Networking   • (Basic) Python experiments
+   Systems & OS  •  C on Linux  •  Networking  •  Concurrency  •  (Basic) Python experiments
 </p>
 
 <p align="center">
@@ -21,9 +21,10 @@
 - Open to collaborating on systems, networking, or OS‑style projects.
 
 ### Tech
-- Languages: C , C++, Python, Bash(shell scripting)
-- Domains: TCP/IP, POSIX threads, synchronization (locks/semaphores/cond vars), OS scheduling, data structures/algorithms
-- Tools: GCC, Make, GDB, Valgrind, Git/GitHub, Readline, Vim, Helgrind , linux 
+- **Languages:** C, C++, Python, Bash / Shell scripting, JavaScript (basic)
+- **Domains:** TCP/IP sockets, I/O multiplexing (`select()`), POSIX threads, synchronization (mutexes / semaphores / condition variables / custom futex locks), OS scheduling (lottery / proportional-share), virtual memory (segmentation, address translation), I/O device model (polling / interrupts / DMA), data structures & algorithms (Huffman coding, BST, linked lists, sorting), UNIX utility implementation, lossless file compression, shell automation
+- **Tools:** GCC, G++, Make, GDB, Valgrind, Helgrind, Git / GitHub, Vim, VS Code, Linux (`pthreads`, `stdatomic.h`, `linux/futex.h`)
+- **Python libs:** TensorFlow, OpenCV, Pillow, NumPy, Matplotlib
 
 ---
 
