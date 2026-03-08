@@ -22,7 +22,7 @@
 
 ### Tech
 - **Languages:** C, C++, Python, Bash / Shell scripting, JavaScript (basic)
-- **Domains:** TCP/IP sockets, I/O multiplexing (`select()`), POSIX threads, synchronization (mutexes / semaphores / condition variables / custom futex locks), OS scheduling (lottery / proportional-share), virtual memory (segmentation, address translation), I/O device model (polling / interrupts / DMA), data structures & algorithms (Huffman coding, BST, linked lists, sorting), UNIX utility implementation, lossless file compression, shell automation
+- **Domains:** TCP/IP sockets, I/O multiplexing (`select()`), POSIX threads,, virtual memory (segmentation, address translation), I/O device model (polling / interrupts), data structures & algorithms (Huffman coding, BST, linked lists, sorting), UNIX utility implementation
 - **Tools:** GCC, G++, Make, GDB, Valgrind, Helgrind, Git / GitHub, Vim, VS Code, Linux (`pthreads`, `stdatomic.h`, `linux/futex.h`)
 - **Python libs:** TensorFlow, OpenCV, Pillow, NumPy, Matplotlib
 
