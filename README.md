@@ -7,7 +7,7 @@ Hi, I am a systems enthusiast passionate about low-level systems programming, ne
 
 ## Skills
 
-* **Languages:** C, C++, Python, Bash, R, JavaScript, HTML5, CSS3
+* **Languages:** C, C++, Python, Bash, R, HTML5, CSS3
 * **Systems & Networking:** Systems Programming, Operating Systems, Unix/Linux Programming, TCP/IP Sockets, I/O Multiplexing (select), POSIX Threads, Virtual Memory, I/O Device Model, UNIX Utilities, Concurrency
 * **Data & Graphics:** DBMS, Data Analysis, Computer Graphics, Image Processing, SQLite, MariaDB, Power BI, Tableau
 * **Core Concepts:** Data Structures & Algorithms, Debugging & Problem Solving
