@@ -13,12 +13,6 @@ Hi, I am a systems enthusiast passionate about low-level systems programming, ne
 * **Core Concepts:** Data Structures & Algorithms, Debugging & Problem Solving
 * **Tools & Environment:** Linux, Git, GitHub, Version Control, Vim, VS Code, GCC, G++, Make, GDB, Valgrind, Helgrind, Figma
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHX1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=seat-allocation-sys,portfolio" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TANISHX1&theme=tokyonight" alt="Stats" />
-</div>
 
 ## Connect with me
 
