@@ -1,18 +1,17 @@
 Hi, I am a systems enthusiast passionate about low-level systems programming, networking, data, and graphics.
 
 * ⚙️ I like building low-level things: sockets, processes/threads, synchronization, and memory translation.
-* 🐧 Currently learning C, system programming on Linux.
+* 🐧 Currently learning C, Go, system and audio programming on Linux.
 * 🤝 I am always open to collaborating on systems, networking, or OS-style projects.
 * 📫 Reach me at [Tanishshivhare2@gmail.com](mailto:Tanishshivhare2@gmail.com)
 
 ## Skills
 
-* **Languages:** C, C++, Python, Bash, R, HTML5, CSS3
-* **Systems & Networking:** Systems Programming, Operating Systems, Unix/Linux Programming, TCP/IP Sockets, I/O Multiplexing (select), POSIX Threads, Virtual Memory, I/O Device Model, UNIX Utilities, Concurrency
-* **Data & Graphics:** DBMS, Data Analysis, Computer Graphics, Image Processing, SQLite, MariaDB, Power BI, Tableau
+* **Languages:** C, C++, Python, Go (Golang), Bash, R, HTML5, CSS3
+* **Systems & Networking:** Systems Programming, Operating Systems, Unix/Linux Programming, TCP/IP Sockets, I/O Multiplexing (select), POSIX Threads, Virtual Memory, I/O Device Model, UNIX Utilities, Concurrency, Audio Processing (PortAudio)
+* **Data & Graphics:** DBMS, Data Analysis, Pandas (EDA), Shiny, Computer Graphics, Image Processing, SQLite, MariaDB, Power BI, Tableau
 * **Core Concepts:** Data Structures & Algorithms, Debugging & Problem Solving
-* **Tools & Environment:** Linux, Git, GitHub, Version Control, Vim, VS Code, GCC, G++, Make, GDB, Valgrind, Helgrind, Figma
-
+* **Tools & Environment:** Linux (Fedora, Ubuntu, Kali), Git, GitHub, Version Control, Vim, VS Code, GCC, G++, Make, GDB, Valgrind, Helgrind, Figma
 
 ## Connect with me
 
